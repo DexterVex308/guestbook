@@ -39,6 +39,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  */
 @SpringBootApplication
 public class Application {
+	
 
 	/**
 	 * The main application method, bootstraps the Spring container.

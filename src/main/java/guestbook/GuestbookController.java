@@ -43,6 +43,7 @@ import org.springframework.web.server.ResponseStatusException;
 @Controller
 class GuestbookController {
 
+
 	private final GuestbookRepository guestbook;
 
 	/**

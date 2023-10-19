@@ -19,6 +19,7 @@ import org.springframework.data.domain.Sort;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.util.Streamable;
 
+
 /**
  * A repository to manage {@link GuestbookEntry} instances. The methods are dynamically implemented by Spring Data JPA.
  *

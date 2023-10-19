@@ -33,6 +33,7 @@ class GuestbookForm {
 	private final @NotBlank String text;
 	private final @NotBlank String address;
 
+
 	/**
 	 * Creates a new {@link GuestbookForm} with the given name and text. Spring Framework will use this constructor to
 	 * bind the values provided in the web form described in {@code src/main/resources/templates/guestbook.html}, in
