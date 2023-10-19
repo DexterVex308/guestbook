@@ -61,7 +61,8 @@ class GuestbookEntry {
 		this.name = null;
 		this.text = null;
 		this.date = null;
-		this.address = null;
+
+		this.address  = null;
 	}
 
 	public String getName() {
